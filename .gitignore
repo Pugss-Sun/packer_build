@@ -1,3 +1,6 @@
 Build_Packer.spec
 /Build
 /dist
+Build_Packer.exe
+packer_gui.exe
+packer_gui.spec
